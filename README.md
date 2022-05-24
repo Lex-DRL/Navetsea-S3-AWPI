@@ -6,7 +6,7 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 > 
 > Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. You must clone the project with a version of git that has LFS.
 
-Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI)
+Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI) _(I don't use GitKraken, not sure: you might need to install Git itself and Git LFS manually.)_
 
 <details>
 <summary>Downloading with SmartGit (git-LFS is included)</summary>
