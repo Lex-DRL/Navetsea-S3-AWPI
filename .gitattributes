@@ -113,3 +113,5 @@
 # -----------------------------------------------
 # Project-specific
 # -----------------------------------------------
+# Sims package
+*.package filter=lfs diff=lfs merge=lfs -text
