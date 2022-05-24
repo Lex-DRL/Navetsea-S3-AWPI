@@ -4,7 +4,7 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 
 > __IMPORTANT__: This project uses Git [Large Files Support (LFS)](https://git-lfs.github.com/).
 > 
-> Downloading a zip file using the corresponding link under green button on Github **will not work**. You must clone the project with a version of git that has LFS.
+> Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. You must clone the project with a version of git that has LFS.
 
 Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI)
 
