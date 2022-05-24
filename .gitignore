@@ -1,0 +1,8 @@
+﻿# OS-generated
+# ------------
+.DS_Store*
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Programming - general
+*.log
