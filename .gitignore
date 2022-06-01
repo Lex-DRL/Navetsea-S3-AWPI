@@ -96,3 +96,6 @@ venv.bak/
 # 	Project-specific rules
 # =========================================================================== #
 # add here
+
+# exclude all unix-style hidden folders:
+.*/
