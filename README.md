@@ -38,7 +38,9 @@ From old (outdated) mods, almost all of them (3/4) are present. You shouldn't ne
 
 **V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 3 of them are outdated anyway). These mods are inside `00 ancient skins do not install` folder.
 
-The relevant (newer, up-to-date) mods are listed in this table:
+The relevant (newer, up-to-date) mods are listed in the following table.
+
+If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
 <details>
 <summary>Presence table</summary>
@@ -54,13 +56,13 @@ The relevant (newer, up-to-date) mods are listed in this table:
 | Wild v1 (Hairy v1)        | ✅            | ❌                | -            | -                |
 | B.A.S                     | -            | ✅                | -            | -                |
 | T.S.I (Asian)             | -            | ✅                | -            | -                |
-| **Wild v2 (Hairy v2)**    | -            | ❌                | -            | ✅                |
+| **Wild v2 (Hairy v2) ❌**  | -            | ❌                | -            | ✅                |
 | G.O.S (Garden of Shadows) | ✅            | ✅                | -            | -                |
 | Real1                     | ❌            | ✅                | -            | -                |
 | Real2                     | ✅            | ✅                | -            | -                |
-| **Cute**                  | ❌            | ❌                | ✅            | ✅                |
+| **Cute ❌**                | ❌            | ❌                | ✅            | ✅                |
 | Tan                       | ❌            | ✅                | -            | -                |
-| **Glam (revised)**        | ❌            | ❌                | -            | -                |
+| **Glam (revised) ❌**      | ❌            | ❌                | -            | -                |
 | T.S.I revised (Asian)     | ✅            | ❌                | -            | ✅                |
 | Busty                     | ✅            | ✅                | -            | -                |
 | Sexy                      | ✅            | ✅                | -            | ✅                |
@@ -119,6 +121,10 @@ This might become handy in future, if someone would need to know when each mod w
 
 ## Contributing
 If you can contribute to the archive, feel free to fork the repo and create a pull request with your additions.
+
+If you have a missing mod version on hand, but are very unfamiliar with git or GitHub (and don't want to dig into it), you can help, too. Just [create a new issue](/issues) and attach a file there.
+
+Let's restore the archive together!
 
 ## Disclaimer
 In no way, shape or form the author of this repo takes credit for the artworks. As explicitly stated, these mods were authored by [Navetsea](https://navetsea.blogspot.com/). And they were archived/recovered/shared by various users on community forums. [Credits](/CREDITS.md)
