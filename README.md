@@ -122,7 +122,7 @@ This might become handy in future, if someone would need to know when each mod w
 ## Contributing
 If you can contribute to the archive, feel free to fork the repo and create a pull request with your additions.
 
-If you have a missing mod version on hand, but are very unfamiliar with git or GitHub (and don't want to dig into it), you can help, too. Just [create a new issue](../issues) and attach a file there.
+If you have a missing mod version on hand, but are very unfamiliar with git or GitHub (and don't want to dig into it), you can help, too. Just [create a new issue](../../issues) and attach a file there.
 
 Let's restore the archive together!
 
