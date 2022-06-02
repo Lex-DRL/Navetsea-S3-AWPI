@@ -2,7 +2,7 @@
 
 This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogspot.com/) that was published as Sims 3 mods.
 
-> __IMPORTANT__: This project uses Git [Large Files Support (LFS)](https://git-lfs.github.com/).
+> __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
 > 
 > Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. You must clone the project with a version of git that has LFS.
 
