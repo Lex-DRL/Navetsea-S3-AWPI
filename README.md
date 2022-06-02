@@ -14,8 +14,8 @@ Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch
 0. [Download SmartGit](https://www.syntevo.com/smartgit/download/) and install it / unpack portable version.
 1. _**Repository > Clone**_. Specify the URL of this repo, available here (on GitHub) at the green `Code` button above. If you're not sure which one to use, select HTTPS.
 2. Select `initial_pre-LFS` branch and specify local folder to save to. Finish the cloning process.
-3. _**Local > LFS > Install...**_ > wait till LFS installation is complete. *(it should say that in **Output** window / **Status bar** should say "Ready", "Done" or smth. similar)*
-4. Switch to the `main` branch (double-click it, under "origin", in _**Branches**_ window).
+3. _**Local > LFS > Install...**_ > wait till LFS installation is complete. _(it should say that in **Output** window / **Status bar** should say "Ready", "Done" or smth. similar)_
+4. Switch to the `main` branch _(double-click it under "origin", in **Branches** window)_.
 5. Wait till it downloads the latest version of files.
 </details>
 
