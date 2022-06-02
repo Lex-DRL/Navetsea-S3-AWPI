@@ -61,6 +61,38 @@ Full variants of mods are marked as `Adult` in their file name, censored are amr
 
 </details>
 
+## Duplicates
+<details>
+<summary>How duplicate variants of the same mods were treated</summary>
+
+If you try to search for Navetsea's mods yourself, you'll soon discover that there are multiple different binary `.package` files for each mod in the internet. It's unclear what's the difference between them and which one you should choose.
+
+Therefore, I have downloaded all the possible variations of Navetsea's mods that I was able to find and I manually compared them. First, with bit-to-bit comparison. Then, using s3pe v14-0222-1852 I've actually extracted their contents (the textures themselves) and compared those.
+When a bunch of duplicates were found, I've chosen the file with the smallest size. As far as I managed to learn it myself, `.package` file is basically just an archive. So if two files have exactly the same contents, they are effectively the same mod. The smaller one is just compressed better.
+
+Feel free to correct me if I got it wrong (other, bigger versions of each file are kept in git history anyway).
+
+Everything from all the following links is already in this repo - in one way or another:
+
+- All the mods available for download on modthesims.info
+- The main archive by [wapitawg](https://www.loverslab.com/profile/577239-wapitawg/):
+	https://www.loverslab.com/topic/177185-navetsea-face-in-skins-collection-25-skins-in-default-and-non-default-versions/
+	
+	https://mega.nz/folder/UgBCwbpQ#le0T3O2UCryBMo8qziB3Dg
+- https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / http://www.mediafire.com/download/cd33i3frcw22uf3/navetsea_skins.rar
+- https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / https://www.mediafire.com/folder/ta2jxwevxenqs/navetsea_skins
+- https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1899629 / http://simfileshare.net/download/144124/
+- https://www.loverslab.com/topic/77817-navetsea-skins/#comment-2152693
+- https://www.loverslab.com/topic/77817-navetsea-skins/#comment-2158835
+- https://www.loverslab.com/topic/77817-navetsea-skins/page/2/#comment-3253139
+
+- https://modthesims.info/showthread.php?p=4616774#post4616774 / https://www.mediafire.com/file/4m5p4gspeyhg6k7/navetsea_F-IN_TS3_Adult_real2_default.7z/file
+- https://modthesims.info/showthread.php?p=5095588#post5095588 / https://www.mediafire.com/file/7jwx7l5jye4sdmd/navetseaF-INTS3MTSvcutenondefault.7z/file
+- https://modthesims.info/showthread.php?p=5175045#post5175045 / http://depositfiles.com/files/vtcqxi5nx
+- https://modthesims.info/showthread.php?p=5441275#post5441275 / https://mega.nz/#!3J8wGKZS!qMpsqvqjprPyGhfUlbJyqGG96I7fJzZygeDyFBWrwwI
+
+</details>
+
 ## Reasoning
 There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/d/479460/face-in-revised-default-amp-non-default-natural-realistic-style-skin.html) is just a tiny fraction of what was created. Forum threads contain download links scattered over multiple forums, most of which are already dead, too. And those links that still work... Well, none of them contain _**ALL**_ the artwork in a single place.
 
