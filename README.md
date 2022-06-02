@@ -99,6 +99,14 @@ Everything from all the following links is already in this repo - in one way or 
 
 </details>
 
+## Timestamps script
+Since git doesn't preserve file attributes, I've created a small python script, `timestamps_sync.py`.
+It simply remembers timestamp of each mod into `timestamps.txt`. You can run it from command line with `python timestamps_sync.py` (python 3 must be installed).
+
+The script synchronizes file modification time between the actual mod file and the aforementioned `timestamps.txt` cache. When they differ, the earliest date/time is chosen and applied for both. I.e., if you launch the script right after cloning the repo, all the mods will get their modification time from the cache.
+
+This might become handy in future, if someone would need to know when each mod was released.
+
 ## Contributing
 If you can contribute to the archive, feel free to fork the repo and create a pull request with your additions.
 
