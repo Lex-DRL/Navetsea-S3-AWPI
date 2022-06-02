@@ -29,9 +29,19 @@ So, before it's too late, this repo was created, to save the amazing work.
 
 Full variants of mods are marked as `Adult` in their file name, censored are marked as `MTSv`.
 
-## Presence table
+## Present mods
+From old (outdated) mods, almost all of them (3/4) are present. You shouldn't need them anyway, but here's the list of those. All of them contain only default replacements:
+
+- **SS2 v1 female** + **v2 unisex**
+- **V2B**
+- **V2C**
+
+**V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 3 of them are outdated anyway). These mods are inside `00 ancient skins do not install` folder.
+
+The relevant (newer, up-to-date) mods are listed in this table:
+
 <details>
-<summary>Table</summary>
+<summary>Presence table</summary>
 
 - ✅ : present
 - ❌ : lost
@@ -111,4 +121,4 @@ This might become handy in future, if someone would need to know when each mod w
 If you can contribute to the archive, feel free to fork the repo and create a pull request with your additions.
 
 ## Disclaimer
-In no way, shape or form the author of this repo takes credit for the artworks. As explicitly, stated, these mods were authored by [Navetsea](https://navetsea.blogspot.com/). And they were archived/recovered/shared by various users on community forums. [Credits](/CREDITS.md)
+In no way, shape or form the author of this repo takes credit for the artworks. As explicitly stated, these mods were authored by [Navetsea](https://navetsea.blogspot.com/). And they were archived/recovered/shared by various users on community forums. [Credits](/CREDITS.md)
