@@ -20,7 +20,7 @@ Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch
 </details>
 
 ## MTSv
-[ModTheSims](https://modthesims.info/d/479460) portal forbids publishing explicit content. So for it, `MTS` variants of the mods were made. They contain censored female trextures (crotch area is in barbie-style). Male textures are still full, since "that part" of texture can't be shown, unless a [corresponding additional mod by Cmar](http://sexysims.info/download.php?t=173718) is installed, too.
+[ModTheSims](https://modthesims.info/d/479460) portal forbids publishing explicit content. So for it, `MTS` variants of the mods were made. They contain censored female textures (crotch area is in barbie-style). Male textures are still full, since "that part" of texture can't be shown, unless a [corresponding additional mod by Cmar](http://sexysims.info/download.php?t=173718) is installed, too.
 
 Full variants of mods are marked as `Adult` in their file name, censored are amrked as `MTSv`.
 
