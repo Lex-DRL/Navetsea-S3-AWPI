@@ -77,9 +77,9 @@ Everything from all the following links is already in this repo - in one way or 
 - All the mods available for download on modthesims.info
 - The main archive by [wapitawg](https://www.loverslab.com/profile/577239-wapitawg/):
 	
-	https://www.loverslab.com/topic/177185-navetsea-face-in-skins-collection-25-skins-in-default-and-non-default-versions/
+	- https://www.loverslab.com/topic/177185-navetsea-face-in-skins-collection-25-skins-in-default-and-non-default-versions/
 	
-	https://mega.nz/folder/UgBCwbpQ#le0T3O2UCryBMo8qziB3Dg
+	- https://mega.nz/folder/UgBCwbpQ#le0T3O2UCryBMo8qziB3Dg
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / http://www.mediafire.com/download/cd33i3frcw22uf3/navetsea_skins.rar
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / https://www.mediafire.com/folder/ta2jxwevxenqs/navetsea_skins
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1899629 / http://simfileshare.net/download/144124/
