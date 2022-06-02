@@ -56,13 +56,13 @@ If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](
 | Wild v1 (Hairy v1)        | ✅            | ❌                | -            | -                |
 | B.A.S                     | -            | ✅                | -            | -                |
 | T.S.I (Asian)             | -            | ✅                | -            | -                |
-| **Wild v2 (Hairy v2) ❌**  | -            | ❌                | -            | ✅                |
+| **❌ Wild v2 (Hairy v2)**  | -            | ❌                | -            | ✅                |
 | G.O.S (Garden of Shadows) | ✅            | ✅                | -            | -                |
 | Real1                     | ❌            | ✅                | -            | -                |
 | Real2                     | ✅            | ✅                | -            | -                |
-| **Cute ❌**                | ❌            | ❌                | ✅            | ✅                |
+| **❌ Cute**                | ❌            | ❌                | ✅            | ✅                |
 | Tan                       | ❌            | ✅                | -            | -                |
-| **Glam (revised) ❌**      | ❌            | ❌                | -            | -                |
+| **❌ Glam (revised)**      | ❌            | ❌                | -            | -                |
 | T.S.I revised (Asian)     | ✅            | ❌                | -            | ✅                |
 | Busty                     | ✅            | ✅                | -            | -                |
 | Sexy                      | ✅            | ✅                | -            | ✅                |
