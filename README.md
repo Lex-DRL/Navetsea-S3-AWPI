@@ -16,7 +16,7 @@ Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch
 2. Select `initial_pre-LFS` branch and specify local folder to save to. Finish the cloning process.
 3. _**Local > LFS > Install...**_ > wait till LFS installation is complete _(it should say that in **Output** window; **Status bar** should say "Ready", "Done" or smth. similar)_.
 4. Switch to the `main` branch _(double-click it under "origin", in **Branches** window)_.
-5. Wait till it downloads the latest version of files.
+5. Wait till it downloads the latest version of files. Done! ✅
 </details>
 
 ## Reasoning / About
