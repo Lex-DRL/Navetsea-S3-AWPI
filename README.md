@@ -23,7 +23,7 @@ Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch
 </details>
 
 ## Reasoning / About
-There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/d/479460/face-in-revised-default-amp-non-default-natural-realistic-style-skin.html) is just a tiny fraction of what was created. Forum threads contain download links scattered over multiple forums, most of which are already dead, too. And those links that still work... Well, none of them contain _**ALL**_ the artwork in a single place.
+There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347) is just a tiny fraction of what was created. Forum threads contain download links scattered over multiple forums, most of which are already dead, too. And those links that still work... Well, none of them contain _**ALL**_ the artwork in a single place.
 
 So, before it's too late, this repo was created, to save the amazing work.
 
@@ -89,12 +89,16 @@ Feel free to correct me if I got it wrong (other, bigger versions of each file a
 
 Everything from all the following links is already in this repo - in one way or another:
 
-- All the mods available for download on modthesims.info
+- All the mods available for download on [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347)
 - The main archive by [wapitawg](https://www.loverslab.com/profile/577239-wapitawg/):
 	
 	- https://www.loverslab.com/topic/177185-navetsea-face-in-skins-collection-25-skins-in-default-and-non-default-versions/
 	
 	- https://mega.nz/folder/UgBCwbpQ#le0T3O2UCryBMo8qziB3Dg
+	- They specified there that, in turn, their own sources were:
+		* [Insimadult board](http://www.insimadult.org/index.php?action=profile;u=73817;sa=showTopics)
+		* [CStyle forums](https://cstylessims3forum.forumotion.com/)
+		* [Garden of Shadows forums](https://gardenofshadows.org.uk/gardenofshadows/index.php)
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / http://www.mediafire.com/download/cd33i3frcw22uf3/navetsea_skins.rar
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1897886 / https://www.mediafire.com/folder/ta2jxwevxenqs/navetsea_skins
 - https://www.loverslab.com/topic/77817-navetsea-skins/#comment-1899629 / http://simfileshare.net/download/144124/
