@@ -1,5 +1,5 @@
 ## _Navetsea's F-IN (Face-in) skin set_
-# `G.O.S (Garden of Shadows)` edition
+# `G.o.S (Garden of Shadows)` edition
 
 Another 2 in 1 skin set that will react to the color ramp.
 
