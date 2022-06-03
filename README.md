@@ -126,6 +126,12 @@ The script synchronizes file modification time between the actual mod file and t
 
 This might become handy in future, if someone would need to know when each mod was released.
 
+## Modding tools
+Navetsea themself say that they used:
+
+- [S3PE](http://www.simlogical.com/s3pe.htm) by Peter & Inge Jones
+- [Skininator](https://modthesims.info/d/389488/skininator-a-tool-to-make-non-default-and-default-custom-skins-new-version-1-10-2013.html) by [CmarNYC](https://modthesims.info/member.php?u=3216596)
+
 ## Contributing
 If you can contribute to the archive, feel free to fork the repo and create a pull request with your additions.
 
