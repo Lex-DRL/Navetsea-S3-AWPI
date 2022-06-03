@@ -8,7 +8,7 @@ A 2 in 1 skin, based on [Sexy](/16%20Sexy) edition, polished with new things:
 - New back muscle and more defined/toned abs.
 - Slight freckle on female chest / upper breast.
 - Fine tuning on the face to make its features look better: highlight and shadow.
-- Using GoS type color ramp. It support pale to brown, and zombie tone.
+- Using `GoS` type color ramp. It support pale to brown, and zombie tone.
 
 ![Hot-1](/_PREVIEW/17%20Hot-1.jpg)
 ![Hot-2](/_PREVIEW/17%20Hot-2.jpg)
