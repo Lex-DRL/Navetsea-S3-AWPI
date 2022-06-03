@@ -13,10 +13,10 @@ When everything went well, it should replace sims who once used `Glam` skin into
 > * new eyelids,
 > * foot and hand details,
 > * revised toddler skin,
-> * **armpit**,
-> * **new lips**,
-> * **belly button**,
-> * **better detailed nipple**.
+> * _**armpit**_,
+> * _**new lips**_,
+> * _**belly button**_,
+> * _**better detailed nipple**_.
 
 ![GlamRevised-1](/_PREVIEW/13%20Glam%20revised-1.jpg)
 ![GlamRevised-2](/_PREVIEW/13%20Glam%20revised-2.jpg)
