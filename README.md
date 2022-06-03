@@ -57,7 +57,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [T.S.I (Asian)](/05%20T.S.I%20(Asian))                             | -            | ✅                | -            | -                |
 | [**❌ Wild (Hairy) v2**](/06%20Wild%20(Hairy)%20v2)                 | -            | ❌                | -            | ✅                |
 | [G.o.S (Garden of Shadows)](/07%20G.o.S%20(Garden%20of%20Shadows)) | ✅            | ✅                | -            | -                |
-| **❌ V2R** (described as "updated V2C")                             | ❌            | ❌                | -            | -                |
+| [**❌ V2R**](/08%20V2R) (updated `V2C` / elements of `Real1`)       | ❌            | ❌                | -            | -                |
 | [Real1](/09%20Real1)                                               | ❌            | ✅                | -            | -                |
 | [Real2](/10%20Real2)                                               | ✅            | ✅                | -            | -                |
 | [**❌ Cute**](/11%20Cute)                                           | ❌            | ❌                | ✅            | ✅                |
