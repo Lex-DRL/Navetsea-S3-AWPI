@@ -1,5 +1,5 @@
 ## _Navetsea's F-IN (Face-in) skin set_
-# **Normal revised** _edition_
+# `Normal revised` edition
 
 ![Normal-1](/_PREVIEW/01%20Normal%20revised-1.jpg)
 ![Normal-2](/_PREVIEW/01%20Normal%20revised-2.jpg)
