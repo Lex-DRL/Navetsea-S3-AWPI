@@ -19,5 +19,5 @@ It has slightly caffeinated look on their eyes.
 > * foot and hand details,
 > * revised toddler skin.
 
-![Real2-0](/10%20Real2-0.jpg)
-![Real2-1](/10%20Real2-1.jpg)
+![Real2-0](/_PREVIEW/10%20Real2-0.jpg)
+![Real2-1](/_PREVIEW/10%20Real2-1.jpg)
