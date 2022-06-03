@@ -1,6 +1,8 @@
 ## _Navetsea's F-IN (Face-in) skin set_
 # `Normal revised` edition
 
+With very light body fuzz, slightly more toned body.
+
 ![Normal-1](/_PREVIEW/01%20Normal%20revised-1.jpg)
 ![Normal-2](/_PREVIEW/01%20Normal%20revised-2.jpg)
 ![Normal-3](/_PREVIEW/01%20Normal%20revised-3.jpg)
