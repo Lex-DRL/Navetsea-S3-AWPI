@@ -86,8 +86,11 @@ Therefore, I have downloaded all the possible variations of Navetsea's mods that
 When a bunch of duplicates were found, I've chosen the file with the smallest size. As far as I managed to learn it myself, `.package` file is basically just an archive. So if two files have exactly the same contents, they are effectively the same mod. The smaller one is just compressed better.
 
 Feel free to correct me if I got it wrong (other, bigger versions of each file are kept in git history anyway).
+</details>
 
-Everything from all the following links is already in this repo - in one way or another:
+## Sources
+<details>
+<summary>Everything from all the following links is already in this repo - in one way or another</summary>
 
 - All the mods available for download on:
 	
