@@ -4,7 +4,7 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 
 > __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
 > 
-> Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. To get the actual mods, you have two options:
+> Downloading a zip file using the corresponding link under green button on GitHub **WILL NOT WORK**. To get the actual mods, you have two options:
 > 
 > * Download files here on GitHub one-by-one;
 > * Clone the project with a version of git that has LFS.
