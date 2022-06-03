@@ -1,9 +1,9 @@
 ## _Navetsea's F-IN (Face-in) skin set_
-# `Sweet` edition
+# `Model` edition
 
 A 2 in 1 skin, based from on [Hot](/17%20Hot) edition.
 
-### Common for `Sweet` and [Model](/20%20Model) editions:
+### Common for [Sweet](/19%20Sweet) and `Model` editions:
 
 - New lip again, with narrower mouth corner.
 - Less dark circle around eyes.
@@ -11,11 +11,9 @@ A 2 in 1 skin, based from on [Hot](/17%20Hot) edition.
 - Less moles and freckles, less body hair on leg and arm.
 - New color ramp style to better use its 2in1 feature on wider color tones (click the preview pic below to read explanation about the new color ramp design).
 
-### Specific for `Sweet` edition:
+### Specific for `Model` edition:
 
-- Blendable pubic hair for female from a neatly trimmed triangle to barely there fuzz.
+- Naturally good looking, yet does not look like wearing permanent makeup.
+- Smooth glowy skin with juicy lips.
 
-> Buhudain this one is for you :)
-
-![Sweet-1](/_PREVIEW/19%20Sweet-1.jpg)
-![Sweet-2](/_PREVIEW/19%20Sweet-2.jpg)
+![Model](/_PREVIEW/20%20Model.jpg)
