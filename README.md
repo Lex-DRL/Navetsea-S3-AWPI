@@ -89,11 +89,13 @@ Feel free to correct me if I got it wrong (other, bigger versions of each file a
 
 Everything from all the following links is already in this repo - in one way or another:
 
-- All the mods available for download on [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347)
+- All the mods available for download on:
+	
+	- [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347)
+	- [sexysims.info](http://sexysims.info/download.php?t=173792)
 - The main archive by [wapitawg](https://www.loverslab.com/profile/577239-wapitawg/):
 	
 	- https://www.loverslab.com/topic/177185-navetsea-face-in-skins-collection-25-skins-in-default-and-non-default-versions/
-	
 	- https://mega.nz/folder/UgBCwbpQ#le0T3O2UCryBMo8qziB3Dg
 	- They specified there that, in turn, their own sources were:
 		* [Insimadult board](http://www.insimadult.org/index.php?action=profile;u=73817;sa=showTopics)
