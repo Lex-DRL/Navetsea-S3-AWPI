@@ -28,7 +28,9 @@ Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch
 </details>
 
 ## Reasoning / About
-There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347) is just a tiny fraction of what was created. Forum threads contain download links scattered over multiple forums, most of which are already dead, too. And those links that still work... Well, none of them contain _**ALL**_ the artwork in a single place.
+There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347) is just a tiny fraction of what was created.
+
+Forum threads contain download links scattered over multiple forums, most of which are already dead, too. And those links that still work... Well, none of them contain _**ALL**_ the artwork in a single place.
 
 So, before it's too late, this repo was created, to save the amazing work.
 
