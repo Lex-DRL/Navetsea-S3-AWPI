@@ -7,7 +7,7 @@
 > 
 > This skin will replace the "old" Glam edition when installed.
 
-When everything went well, it should replace sims who once used `Glam` skin into this new version. Otherwise you need a mod to bring your sim into CAS, like [nrass Master Controller](https://www.nraas.net/community/MasterController) and switch the skin manually.
+If everything goes well, it should replace sims who once used `Glam` skin into this new version. Otherwise you need a mod to bring your sim into CAS, like [nrass Master Controller](https://www.nraas.net/community/MasterController) and switch the skin manually.
 
 > It has all the latest updates of my skin including:
 > * new eyelids,

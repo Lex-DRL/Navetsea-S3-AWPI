@@ -7,7 +7,9 @@ It has all details up to the latest development, and retain original [T.S.I/Asia
 
 > **IMPORTANT**:
 > 
-> This skin will overwrite the old `TSI` version in game.
+> This skin will overwrite the old `T.S.I` version in game.
+
+If everything goes well, it should replace sims who once used `T.S.I`` skin into this new version. Otherwise you need a mod to bring your sim into CAS, like [nrass Master Controller](https://www.nraas.net/community/MasterController) and switch the skin manually.
 
 ![TSI v2-0](/_PREVIEW/14%20T.S.I%20(Asian)%20v2%20(revised)-0.jpg)
 ![TSI v2-1](/_PREVIEW/14%20T.S.I%20(Asian)%20v2%20(revised)-1.jpg)
