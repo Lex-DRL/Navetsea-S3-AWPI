@@ -38,9 +38,9 @@ Full variants of mods are marked as `Adult` in their file name, censored are mar
 ### Ancient mods
 From old (outdated) mods, almost all of them (3/4) are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
 
-- [**SS2 v1 female + v2 unisex**](/00 ancient skins do not install/SS2 v1 female %2B v2 unisex)
-- [**V2B**](/00 ancient skins do not install/V2B)
-- [**V2C**](/00 ancient skins do not install/V2C)
+- [**SS2 v1 female + v2 unisex**]("/00 ancient skins do not install/SS2 v1 female %2B v2 unisex")
+- [**V2B**]("/00 ancient skins do not install/V2B")
+- [**V2C**]("/00 ancient skins do not install/V2C")
 
 **V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 4 of them are outdated anyway).
 
