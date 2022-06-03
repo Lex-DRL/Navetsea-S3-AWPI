@@ -58,8 +58,8 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [**❌ Wild (Hairy) v2**](/06%20Wild%20(Hairy)%20v2)                 | -            | ❌                | -            | ✅                |
 | [G.o.S (Garden of Shadows)](/07%20G.o.S%20(Garden%20of%20Shadows)) | ✅            | ✅                | -            | -                |
 | [**❌ V2R**](/08%20V2R) (updated `V2C` / elements of `Real1`)       | ❌            | ❌                | -            | -                |
-| [Real1](/09%20Real1)                                               | ❌            | ✅                | -            | -                |
-| [Real2](/10%20Real2)                                               | ✅            | ✅                | -            | -                |
+| [Real 1](/09%20Real%201)                                           | ❌            | ✅                | -            | -                |
+| [Real 2](/10%20Real%202)                                           | ✅            | ✅                | -            | -                |
 | [**❌ Cute**](/11%20Cute)                                           | ❌            | ❌                | ✅            | ✅                |
 | [Tan](/12%20Tan)                                                   | ❌            | ✅                | -            | -                |
 | **❌ Glam revised**                                                 | ❌            | ❌                | -            | -                |

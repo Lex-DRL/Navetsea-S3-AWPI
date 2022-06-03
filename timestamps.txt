@@ -30,9 +30,9 @@
 2012-07-28.12:02:15.317878.UTC+0000|06 Wild (Hairy) v2/navetsea F-IN TS3 MTSv hairy v2 nondefault.package
 2012-08-05.03:51:32.000000.UTC+0000|07 G.o.S (Garden of Shadows)/navetsea F-IN TS3 Adult GoS default.package
 2012-08-05.03:51:06.000000.UTC+0000|07 G.o.S (Garden of Shadows)/navetsea F-IN TS3 Adult GoS nondefault.package
-2014-04-10.13:22:55.788585.UTC+0000|09 Real1/navetsea F-IN TS3 Adult real1 nondefault.package
-2012-08-24.00:24:44.000000.UTC+0000|10 Real2/navetsea F-IN TS3 Adult real2 default.package
-2014-04-10.13:23:13.163579.UTC+0000|10 Real2/navetsea F-IN TS3 Adult real2 nondefault.package
+2014-04-10.13:22:55.788585.UTC+0000|09 Real 1/navetsea F-IN TS3 Adult real1 nondefault.package
+2012-08-24.00:24:44.000000.UTC+0000|10 Real 2/navetsea F-IN TS3 Adult real2 default.package
+2014-04-10.13:23:13.163579.UTC+0000|10 Real 2/navetsea F-IN TS3 Adult real2 nondefault.package
 2012-08-26.00:53:40.448768.UTC+0000|11 Cute/navetsea F-IN TS3 MTSv Cute default.package
 2012-08-26.00:54:01.660981.UTC+0000|11 Cute/navetsea F-IN TS3 MTSv Cute nondefault.package
 2014-09-12.05:03:44.000000.UTC+0000|12 Tan/navetsea F-IN TS3 Adult Tan nondefault.package
