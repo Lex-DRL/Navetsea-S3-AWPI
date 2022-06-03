@@ -1,4 +1,4 @@
-# **Navetsea**'s Sims 3 ArtWork Preservation Initiative
+# **Navetsea**'s `Sims 3` ArtWork Preservation Initiative
 
 This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogspot.com/) that was published as Sims 3 mods.
 
