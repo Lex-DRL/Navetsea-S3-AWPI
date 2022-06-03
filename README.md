@@ -8,10 +8,11 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 
 > __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
 > 
-> Downloading a zip file using the corresponding link under green button on GitHub **WILL NOT WORK**. To get the actual mods, you have two options:
+> Downloading a zip file using the corresponding link under green button on GitHub **WILL NOT WORK**. To get the actual mods, you have three options:
 > 
 > * Download files here on GitHub one-by-one;
 > * Clone the project with a version of git that has LFS.
+> * Download a release archive from [Releases](../../releases) page. Make sure to download a `*.7z` archive: this is the one containing the right files. _(`Source code` archives are essentially just snapshots of the aforementioned "Download ZIP" link, so they contain the same placeholder-like files with no actual mod data)_
 
 Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI) _(I don't use GitKraken, not sure: you might need to install Git itself and Git LFS manually.)_
 
