@@ -52,7 +52,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | ------------------------------------------------------------------ | ------------ | ---------------- | ------------ | ---------------- |
 | [Normal revised](/01%20Normal%20revised)                           | ✅            | ✅                | ✅            | ✅                |
 | [Glam](/02%20Glam)                                                 | ✅            | ✅                | ✅            | ✅                |
-| [Wild v1 (Hairy v1)](/03%20Wild%20v1%20(Hairy%20v1))               | ✅            | ❌                | -            | -                |
+| [Wild (Hairy) v1](/03%20Wild%20(Hairy)%20v1)                       | ✅            | ❌                | -            | -                |
 | [B.A.S](/04%20B.A.S)                                               | -            | ✅                | -            | -                |
 | [T.S.I (Asian)](/05%20T.S.I%20(Asian))                             | -            | ✅                | -            | -                |
 | [**❌ Wild v2 (Hairy v2)**](/06%20Wild%20v2%20(Hairy%20v2))         | -            | ❌                | -            | ✅                |
