@@ -2,6 +2,10 @@
 
 This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogspot.com/) that was published as Sims 3 mods.
 
+<p align="center">
+	![Facial skin comparison](/_PREVIEW/_facial_skin_comparison.gif)
+</p>
+
 > __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
 > 
 > Downloading a zip file using the corresponding link under green button on GitHub **WILL NOT WORK**. To get the actual mods, you have two options:
