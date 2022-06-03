@@ -16,6 +16,6 @@ A 2 in 1 skin, based from on [Hot](/17%20Hot) edition.
 - Naturally good looking, yet does not look like wearing permanent makeup.
 - Smooth glowy skin with juicy lips.
 
-> This edition also contains a "futa" version of default-override mod. I.e., the one which adds male genitalia to female models.
+> This edition also has a "futa" version of default-override mod. I.e., the one which adds male genitalia to female models.
 
 ![Model](/_PREVIEW/20%20Model.jpg)
