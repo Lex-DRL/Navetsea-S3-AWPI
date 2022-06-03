@@ -15,7 +15,7 @@ When everything went well, it should replace sims who once used `Glam` skin into
 > * revised toddler skin,
 > * **armpit**,
 > * **new lips**,
-> * **belly button*,
+> * **belly button**,
 > * **better detailed nipple**.
 
 ![GlamRevised-1](/_PREVIEW/13%20Glam%20revised-1.jpg)
