@@ -1,4 +1,5 @@
-# _Navetsea's F-IN (Face-in) skin set_ - **Normal (revised)**
+# **Normal (revised)**
+## _Navetsea's F-IN (Face-in) skin set_
 
 ![Normal-1](/_PREVIEW/01%20Normal%20revised-1.jpg)
 ![Normal-2](/_PREVIEW/01%20Normal%20revised-2.jpg)
