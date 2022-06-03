@@ -36,13 +36,11 @@ So, before it's too late, this repo was created, to save the amazing work.
 Full variants of mods are marked as `Adult` in their file name, censored are marked as `MTSv`.
 
 ### Ancient mods
-From old (outdated) mods, almost all of them (3/4) are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
+From old (outdated) mods, all of them are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
 
 - [**SS2 v1 female + v2 unisex**](/00%20ancient%20skins%20do%20not%20install/SS2%20v1%20female%20%2B%20v2%20unisex)
 - [**V2B**](/00%20ancient%20skins%20do%20not%20install/V2B)
 - [**V2C**](/00%20ancient%20skins%20do%20not%20install/V2C)
-
-**V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 4 of them are outdated anyway).
 
 ### Relevant (newer, up-to-date) mods
 
@@ -59,6 +57,7 @@ From old (outdated) mods, almost all of them (3/4) are present. These mods are i
 | [T.S.I (Asian)](/05%20T.S.I%20(Asian))             | -            | ✅                | -            | -                |
 | [**❌ Wild v2 (Hairy v2)**](/06%20Wild%20v2%20(Hairy%20v2))  | -            | ❌                | -            | ✅                |
 | [G.O.S (Garden of Shadows)](/07%20G.O.S%20(Garden%20of%20Shadows)) | ✅            | ✅                | -            | -                |
+| **❌ V2R** (described as "updated V2C")      | ❌            | ❌                | -            | -                |
 | [Real1](/09%20Real1)                     | ❌            | ✅                | -            | -                |
 | [Real2](/10%20Real2)                     | ✅            | ✅                | -            | -                |
 | [**❌ Cute**](/11%20Cute)                | ❌            | ❌                | ✅            | ✅                |
