@@ -4,7 +4,10 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 
 > __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
 > 
-> Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. You must clone the project with a version of git that has LFS.
+> Downloading a zip file using the corresponding link under green button on Github **WILL NOT WORK**. To get the actual mods, you have two options:
+> 
+> * Download files here on GitHub one-by-one;
+> * Clone the project with a version of git that has LFS.
 
 Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI) _(I don't use GitKraken, not sure: you might need to install Git itself and Git LFS manually.)_
 
@@ -30,20 +33,18 @@ So, before it's too late, this repo was created, to save the amazing work.
 Full variants of mods are marked as `Adult` in their file name, censored are marked as `MTSv`.
 
 ## Present mods
-From old (outdated) mods, almost all of them (3/4) are present. You shouldn't need them anyway, but here's the list of those. All of them contain only default replacements:
+> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
-- **SS2 v1 female** + **v2 unisex**
-- **V2B**
-- **V2C**
+### Ancient mods
+From old (outdated) mods, almost all of them (3/4) are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
 
-**V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 3 of them are outdated anyway). These mods are inside `00 ancient skins do not install` folder.
+- [**SS2 v1 female + v2 unisex**](/00 ancient skins do not install/SS2 v1 female %2B v2 unisex)
+- [**V2B**](/00 ancient skins do not install/V2B)
+- [**V2C**](/00 ancient skins do not install/V2C)
 
-The relevant (newer, up-to-date) mods are listed in the following table.
+**V2R** is missing ❌, but it's described as "evolution of V2C", so it's not a big deal (and all 4 of them are outdated anyway).
 
-If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
-
-<details>
-<summary>Presence table</summary>
+### Relevant (newer, up-to-date) mods
 
 - ✅ : present
 - ❌ : lost
@@ -75,8 +76,6 @@ If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](
 | Wolf                      | -            | ✅                | -            | -                |
 | Hairy v4                  | -            | ✅                | -            | -                |
 | BONUS Cstyle              | ✅            | ✅                | -            | -                |
-
-</details>
 
 ## Duplicates
 <details>
