@@ -62,7 +62,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [Real 2](/10%20Real%202)                                           | ✅            | ✅                | -            | -                |
 | [**❌ Cute**](/11%20Cute)                                           | ❌            | ❌                | ✅            | ✅                |
 | [Tan](/12%20Tan)                                                   | ❌            | ✅                | -            | -                |
-| **❌ Glam revised**                                                 | ❌            | ❌                | -            | -                |
+| [**❌ Glam revised**](/13%20Glam%20revised)                         | ❌            | ❌                | -            | -                |
 | [T.S.I revised (Asian)](/14%20T.S.I%20revised%20(Asian))           | ✅            | ❌                | -            | ✅                |
 | [Busty](/15%20Busty)                                               | ✅            | ✅                | -            | -                |
 | [Sexy](/16%20Sexy)                                                 | ✅            | ✅                | -            | ✅                |
