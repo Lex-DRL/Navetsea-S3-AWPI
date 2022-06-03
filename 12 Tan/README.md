@@ -17,3 +17,4 @@ It has [Cute](/11%20Cute) edition face with different lips.
 ![Tan-2](/_PREVIEW/12%20Tan-2.jpg)
 ![Tan-3](/_PREVIEW/12%20Tan-3.jpg)
 ![Tan-4](/_PREVIEW/12%20Tan-4.jpg)
+![Tan-5](/_PREVIEW/12%20Tan-5.jpg)

@@ -7,4 +7,5 @@ Male has more abs definition as well.
 
 > I also introduce my new lips design with this skin. 
 
-![Busty](/_PREVIEW/15%20Busty.jpg)
+![Busty-1](/_PREVIEW/15%20Busty-1.jpg)
+![Busty-2](/_PREVIEW/15%20Busty-2.jpg)

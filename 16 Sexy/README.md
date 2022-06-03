@@ -1,6 +1,8 @@
 ## _Navetsea's F-IN (Face-in) skin set_
 # `Sexy` edition
 
+A special new torso for my skin, most suitable for slim and fit simmies.
+
 A sexy ideal toned body, new pale lips, and new knee design, new neck post.
 
 > I was editing female body when I got the idea to try the new female torso on male, after few adjustment and blending with the previous male torso, I found this new body is fantastic and brings more diversity to my skins.
