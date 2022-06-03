@@ -56,7 +56,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [B.A.S (Freckled)](/04%20B.A.S%20(Freckled))                       | -            | ✅                | -            | -                |
 | [T.S.I (Asian)](/05%20T.S.I%20(Asian))                             | -            | ✅                | -            | -                |
 | [**❌ Wild (Hairy) v2**](/06%20Wild%20(Hairy)%20v2)                 | -            | ❌                | -            | ✅                |
-| [G.O.S (Garden of Shadows)](/07%20G.O.S%20(Garden%20of%20Shadows)) | ✅            | ✅                | -            | -                |
+| [G.o.S (Garden of Shadows)](/07%20G.o.S%20(Garden%20of%20Shadows)) | ✅            | ✅                | -            | -                |
 | **❌ V2R** (described as "updated V2C")                             | ❌            | ❌                | -            | -                |
 | [Real1](/09%20Real1)                                               | ❌            | ✅                | -            | -                |
 | [Real2](/10%20Real2)                                               | ✅            | ✅                | -            | -                |
