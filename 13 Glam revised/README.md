@@ -3,7 +3,10 @@
 
 [Glam](/02%20Glam) edition got all the new details and seam fix, up to the [Tan](/12%20Tan) edition has, while maintaining its original smooth style.
 
-**This skin will replace the "old" Glam edition when installed**.
+> **IMPORTANT**:
+> 
+> This skin will replace the "old" Glam edition when installed.
+
 When everything went well, it should replace sims who once used `Glam` skin into this new version. Otherwise you need a mod to bring your sim into CAS, like [nrass Master Controller](https://www.nraas.net/community/MasterController) and switch the skin manually.
 
 > It has all the latest updates of my skin including:

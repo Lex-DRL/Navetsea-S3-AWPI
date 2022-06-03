@@ -5,7 +5,9 @@ Dedicated for asian sims, together with revised color ramp.
 
 It has all details up to the latest development, and retain original [T.S.I/Asian](/05%20T.S.I%20(Asian)) edition face with revised eyelid and better detailed lips.
 
-**This skin will overwrite the old `TSI` version in game**.
+> **IMPORTANT**:
+> 
+> This skin will overwrite the old `TSI` version in game.
 
 ![TSI v2-0](/_PREVIEW/14%20T.S.I%20(Asian)%20v2%20(revised)-0.jpg)
 ![TSI v2-1](/_PREVIEW/14%20T.S.I%20(Asian)%20v2%20(revised)-1.jpg)
