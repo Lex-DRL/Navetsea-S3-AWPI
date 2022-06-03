@@ -50,7 +50,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 
 | Mod                                                                | Full default | Full non-default | MTSv default | MTSv non-default |
 | ------------------------------------------------------------------ | ------------ | ---------------- | ------------ | ---------------- |
-| [Normal (revised)](/01%20Normal%20revised)                         | ✅            | ✅                | ✅            | ✅                |
+| [Normal revised](/01%20Normal%20revised)                           | ✅            | ✅                | ✅            | ✅                |
 | [Glam](/02%20Glam)                                                 | ✅            | ✅                | ✅            | ✅                |
 | [Wild v1 (Hairy v1)](/03%20Wild%20v1%20(Hairy%20v1))               | ✅            | ❌                | -            | -                |
 | [B.A.S](/04%20B.A.S)                                               | -            | ✅                | -            | -                |
@@ -62,7 +62,7 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [Real2](/10%20Real2)                                               | ✅            | ✅                | -            | -                |
 | [**❌ Cute**](/11%20Cute)                                           | ❌            | ❌                | ✅            | ✅                |
 | [Tan](/12%20Tan)                                                   | ❌            | ✅                | -            | -                |
-| **❌ Glam (revised)**                                               | ❌            | ❌                | -            | -                |
+| **❌ Glam revised**                                                 | ❌            | ❌                | -            | -                |
 | [T.S.I revised (Asian)](/14%20T.S.I%20revised%20(Asian))           | ✅            | ❌                | -            | ✅                |
 | [Busty](/15%20Busty)                                               | ✅            | ✅                | -            | -                |
 | [Sexy](/16%20Sexy)                                                 | ✅            | ✅                | -            | ✅                |
