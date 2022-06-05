@@ -15,7 +15,7 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 	* [Folder number](#folder-number)
 	* [MTSv vs Adult](#mtsv-vs-adult)
 	* [Default vs non-default](#default-vs-non-default)
-- [Present mods](#present-mods)
+- [Mods list](#mods-list)
 	* [Ancient mods](#ancient-mods)
 	* [Relevant (newer, up-to-date) mods](#relevant-newer-up-to-date-mods)
 - [Technical details](#technical-details)
@@ -67,7 +67,7 @@ Full variants of mods are marked as `Adult` in their file name, censored are mar
 
 If you decided to remove a non-default skin after playing for a while, you'll need to use additional tools like [nrass Master Controller](https://www.nraas.net/community/MasterController).
 
-## Present mods
+## Mods list
 > __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
 ### Ancient mods
