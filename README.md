@@ -61,7 +61,7 @@ Each mod edition is in it's own subfolder, starting with a number. It represents
 Full variants of mods are marked as `Adult` in their file name, censored are marked as `MTSv`.
 
 ### Default vs non-default
-`Default` mods replace the built-in (default) appearance. **THER COULD BE ONLY ONE DEFAULT REPLACEMENT** installed at a time (not only from Navetsea's mods, but across your whole Sims 3 profile).
+`Default` mods replace the built-in (default) appearance. **THERE COULD BE ONLY ONE DEFAULT REPLACEMENT** installed at a time (not only from Navetsea's mods, but across your whole `Sims 3` profile).
 
 `Non-default` ones add a new skintone to the pallete.
 
