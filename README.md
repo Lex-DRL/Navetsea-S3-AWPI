@@ -13,13 +13,19 @@ Forum threads contain download links scattered over multiple forums, most of whi
 
 So, before it's too late, this repo was created, to save the amazing work.
 
-## Present mods
-> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
-
-### MTSv
+## Naming
+### MTSv vs Adult
 [ModTheSims](https://modthesims.info/d/479460) portal forbids publishing explicit content. So for it, `MTS` variants of the mods were made. They contain censored female textures (crotch area is in barbie-style). Male textures are still full, since "that part" of texture can't be shown, unless a [corresponding additional mod by Cmar](http://sexysims.info/download.php?t=173718) is installed, too.
 
 Full variants of mods are marked as `Adult` in their file name, censored are marked as `MTSv`.
+
+### Default vs non-default
+`Default` mods replace the built-in (default) appearance. **THER COULD BE ONLY ONE DEFAULT REPLACEMENT** installed at a time (not only from Navetsea's mods, but across your whole Sims 3 profile).
+
+`Non-default` ones add a new skintone to the pallete.
+
+## Present mods
+> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
 ### Ancient mods
 From old (outdated) mods, all of them are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
