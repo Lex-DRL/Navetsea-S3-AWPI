@@ -120,7 +120,7 @@ From old (outdated) mods, all of them are present. These mods are inside [00 anc
 
 If you try to search for Navetsea's mods yourself, you'll soon discover that there are multiple different binary `.package` files for each mod in the internet. It's unclear what's the difference between them and which one you should choose.
 
-Therefore, I ([Lex-DRL](@Lex-DRL)) have downloaded all the possible variations of Navetsea's mods that I was able to find and I manually compared them. First, with bit-to-bit comparison. Then, using s3pe v14-0222-1852 I've actually extracted their contents (the textures themselves) and compared those.
+Therefore, I ([Lex-DRL](https://github.com/Lex-DRL)) have downloaded all the possible variations of Navetsea's mods that I was able to find and I manually compared them. First, with bit-to-bit comparison. Then, using s3pe v14-0222-1852 I've actually extracted their contents (the textures themselves) and compared those.
 When a bunch of duplicates were found, I've chosen the file with the smallest size. As far as I managed to learn it myself, `.package` file is basically just an archive. So if two files have exactly the same contents, they are effectively the same mod. The smaller one is just compressed better.
 
 Feel free to correct me if I got it wrong (other, bigger versions of each file are kept in git history anyway).
