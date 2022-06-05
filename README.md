@@ -6,6 +6,25 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 	<img src="/_PREVIEW/_facial_skin_comparison.gif" alt="Facial skin comparison"/>
 </p>
 
+<details>
+<summary>Table of contents</summary>
+
+- [Reasoning / About](#reasoning--about)
+- [Naming explanation](#naming-explanation)
+	* [MTSv vs Adult](#mtsv-vs-adult)
+	* [Default vs non-default](#default-vs-non-default)
+- [Present mods](#present-mods)
+	* [Ancient mods](#ancient-mods)
+	* [Relevant (newer, up-to-date) mods](#relevant-newer-up-to-date-mods)
+- [Technical details](#technical-details)
+	* [Duplicates](#duplicates)
+	* [Sources](#sources)
+	* [File timestamps](#file-timestamps)
+	* [Modding tools](#modding-tools)
+- [Contributing](#contributing)
+- [Disclaimer / Credits](#disclaimer--credits)
+</details>
+
 ## Reasoning / About
 There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347) is just a tiny fraction of what was created.
 
@@ -13,7 +32,7 @@ Forum threads contain download links scattered over multiple forums, most of whi
 
 So, before it's too late, this repo was created, to save the amazing work.
 
-## Naming
+## Naming explanation
 ### MTSv vs Adult
 [ModTheSims](https://modthesims.info/d/479460) portal forbids publishing explicit content. So for it, `MTS` variants of the mods were made. They contain censored female textures (crotch area is in barbie-style). Male textures are still full, since "that part" of texture can't be shown, unless a [corresponding additional mod by Cmar](http://sexysims.info/download.php?t=173718) is installed, too.
 
@@ -68,7 +87,8 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 | [Hairy v4](/23%20Hairy%20v4)                                         | —            | ✅                | —            | —                |
 | [BONUS Cstyle](/BONUS%20Cstyle)                                      | ✅            | ✅                | —            | —                |
 
-## Duplicates
+## Technical details
+### Duplicates
 <details>
 <summary>How duplicate variants of the same mods were treated</summary>
 
@@ -80,7 +100,7 @@ When a bunch of duplicates were found, I've chosen the file with the smallest si
 Feel free to correct me if I got it wrong (other, bigger versions of each file are kept in git history anyway).
 </details>
 
-## Sources
+### Sources
 <details>
 <summary>Everything from all the following links is already in this repo - in one way or another</summary>
 
@@ -110,7 +130,7 @@ Feel free to correct me if I got it wrong (other, bigger versions of each file a
 
 </details>
 
-## Timestamps script
+### File timestamps
 Since git doesn't preserve file attributes, I've created a small python script, `timestamps_sync.py`.
 It simply remembers timestamp of each mod into `timestamps.txt`. You can run it from command line with `python timestamps_sync.py` (python 3 must be installed).
 
@@ -118,7 +138,7 @@ The script synchronizes file modification time between the actual mod file and t
 
 This might become handy in future, if someone would need to know when each mod was released.
 
-## Modding tools
+### Modding tools
 Navetsea themself say that they used:
 
 - [S3PE](http://www.simlogical.com/s3pe.htm) by Peter & Inge Jones
@@ -131,5 +151,5 @@ If you can contribute to the archive, feel free to fork the repo and create a pu
 
 Let's restore the archive together!
 
-## Disclaimer
+## Disclaimer / Credits
 In no way, shape or form the author of this repo takes credit for the artworks. As explicitly stated, these mods were authored by [Navetsea](https://navetsea.blogspot.com/). And they were archived/recovered/shared by various users on community forums. [Credits](/CREDITS.md)
