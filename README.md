@@ -49,9 +49,9 @@ Full variants of mods are marked as `Adult` in their file name, censored are mar
 ### Ancient mods
 From old (outdated) mods, all of them are present. These mods are inside `00 ancient skins do not install` folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
 
-- [**SS2 v1 female + v2 unisex**](/00%20ancient%20skins%20do%20not%20install/SS2%20v1%20female%20%2B%20v2%20unisex)
-- [**V2B**](/00%20ancient%20skins%20do%20not%20install/V2B)
-- [**V2C**](/00%20ancient%20skins%20do%20not%20install/V2C)
+- [**SS2 v1 female + v2 unisex**](/mods/00%20ancient%20skins%20do%20not%20install/SS2%20v1%20female%20%2B%20v2%20unisex)
+- [**V2B**](/mods/00%20ancient%20skins%20do%20not%20install/V2B)
+- [**V2C**](/mods/00%20ancient%20skins%20do%20not%20install/V2C)
 
 ### Relevant (newer, up-to-date) mods
 
@@ -59,33 +59,33 @@ From old (outdated) mods, all of them are present. These mods are inside `00 anc
 - ❌ : lost
 - `—` : never was released
 
-| Mod                                                                  | Full default | Full non-default | MTSv default | MTSv non-default |
-| -------------------------------------------------------------------- | ------------ | ---------------- | ------------ | ---------------- |
-| [Normal revised](/01%20Normal%20revised)                             | ✅            | ✅                | ✅            | ✅                |
-| [Glam](/02%20Glam)                                                   | ✅            | ✅                | ✅            | ✅                |
-| [Wild (Hairy) v1](/03%20Wild%20(Hairy)%20v1)                         | ✅            | ❌                | —            | —                |
-| [B.A.S (Freckled)](/04%20B.A.S%20(Freckled))                         | —            | ✅                | —            | —                |
-| [T.S.I (Asian)](/05%20T.S.I%20(Asian))                               | —            | ✅                | —            | —                |
-| [**❌ Wild (Hairy) v2**](/06%20Wild%20(Hairy)%20v2)                   | —            | ❌                | —            | ✅                |
-| [G.o.S (Garden of Shadows)](/07%20G.o.S%20(Garden%20of%20Shadows))   | ✅            | ✅                | —            | —                |
-| [**❌ V2R**](/08%20V2R) (updated `V2C` / elements of `Real 1`)        | ❌            | ❌                | —            | —                |
-| [Real 1](/09%20Real%201)                                             | ❌            | ✅                | —            | —                |
-| [Real 2](/10%20Real%202)                                             | ✅            | ✅                | —            | —                |
-| [**❌ Cute**](/11%20Cute)                                             | ❌            | ❌                | ✅            | ✅                |
-| [Tan](/12%20Tan)                                                     | ❌            | ✅                | —            | —                |
-| [**❌ Glam revised**](/13%20Glam%20revised)                           | ❌            | ❌                | —            | —                |
-| [T.S.I (Asian) v2 (revised)](/14%20T.S.I%20(Asian)%20v2%20(revised)) | ✅            | ❌                | —            | ✅                |
-| [Busty](/15%20Busty)                                                 | ✅            | ✅                | —            | —                |
-| [Sexy](/16%20Sexy)                                                   | ✅            | ✅                | —            | ✅                |
-| [Hot](/17%20Hot)                                                     | ✅            | ✅                | —            | —                |
-| [Bad](/18.1%20Bad)                                                   | ✅            | ✅                | —            | —                |
-| [Hairy v3](/18.2%20Hairy%20v3)                                       | ✅            | ✅                | —            | —                |
-| [Sweet](/19%20Sweet)                                                 | ✅            | ✅                | —            | —                |
-| [Model](/20%20Model)                                                 | ✅ + futa     | ✅                | ✅            | ✅                |
-| [Asian](/21%20Asian)                                                 | ✅            | ✅                | —            | —                |
-| [Wolf](/22%20Wolf)                                                   | —            | ✅                | —            | —                |
-| [Hairy v4](/23%20Hairy%20v4)                                         | —            | ✅                | —            | —                |
-| [BONUS Cstyle](/BONUS%20Cstyle)                                      | ✅            | ✅                | —            | —                |
+| Mod                                                                       | Full default | Full non-default | MTSv default | MTSv non-default |
+| ------------------------------------------------------------------------- | ------------ | ---------------- | ------------ | ---------------- |
+| [Normal revised](/mods/01%20Normal%20revised)                             | ✅            | ✅                | ✅            | ✅                |
+| [Glam](/mods/02%20Glam)                                                   | ✅            | ✅                | ✅            | ✅                |
+| [Wild (Hairy) v1](/mods/03%20Wild%20(Hairy)%20v1)                         | ✅            | ❌                | —            | —                |
+| [B.A.S (Freckled)](/mods/04%20B.A.S%20(Freckled))                         | —            | ✅                | —            | —                |
+| [T.S.I (Asian)](/mods/05%20T.S.I%20(Asian))                               | —            | ✅                | —            | —                |
+| [**❌ Wild (Hairy) v2**](/mods/06%20Wild%20(Hairy)%20v2)                   | —            | ❌                | —            | ✅                |
+| [G.o.S (Garden of Shadows)](/mods/07%20G.o.S%20(Garden%20of%20Shadows))   | ✅            | ✅                | —            | —                |
+| [**❌ V2R**](/mods/08%20V2R) (updated `V2C` / elements of `Real 1`)        | ❌            | ❌                | —            | —                |
+| [Real 1](/mods/09%20Real%201)                                             | ❌            | ✅                | —            | —                |
+| [Real 2](/mods/10%20Real%202)                                             | ✅            | ✅                | —            | —                |
+| [**❌ Cute**](/mods/11%20Cute)                                             | ❌            | ❌                | ✅            | ✅                |
+| [Tan](/mods/12%20Tan)                                                     | ❌            | ✅                | —            | —                |
+| [**❌ Glam revised**](/mods/13%20Glam%20revised)                           | ❌            | ❌                | —            | —                |
+| [T.S.I (Asian) v2 (revised)](/mods/14%20T.S.I%20(Asian)%20v2%20(revised)) | ✅            | ❌                | —            | ✅                |
+| [Busty](/mods/15%20Busty)                                                 | ✅            | ✅                | —            | —                |
+| [Sexy](/mods/16%20Sexy)                                                   | ✅            | ✅                | —            | ✅                |
+| [Hot](/mods/17%20Hot)                                                     | ✅            | ✅                | —            | —                |
+| [Bad](/mods/18.1%20Bad)                                                   | ✅            | ✅                | —            | —                |
+| [Hairy v3](/mods/18.2%20Hairy%20v3)                                       | ✅            | ✅                | —            | —                |
+| [Sweet](/mods/19%20Sweet)                                                 | ✅            | ✅                | —            | —                |
+| [Model](/mods/20%20Model)                                                 | ✅ + futa     | ✅                | ✅            | ✅                |
+| [Asian](/mods/21%20Asian)                                                 | ✅            | ✅                | —            | —                |
+| [Wolf](/mods/22%20Wolf)                                                   | —            | ✅                | —            | —                |
+| [Hairy v4](/mods/23%20Hairy%20v4)                                         | —            | ✅                | —            | —                |
+| [BONUS Cstyle](/mods/BONUS%20Cstyle)                                      | ✅            | ✅                | —            | —                |
 
 ## Technical details
 ### Duplicates

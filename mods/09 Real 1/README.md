@@ -10,7 +10,7 @@ It has almost totally new face that focuses more on being realistic looking. It 
 > * foot and hand details,
 > * revised toddler skin.
 
-Like [V2R](/08%20V2R):
+Like [V2R](/mods/08%20V2R):
 > Both (`V2R` & `Real 1`) are 2 in 1 skins and also have updated underboobs to support smaller breasted women, and foot and hand details, and also revised toddler body.
 
 > `Real 1` has more saggy cheek with a cute blush of pink across its face. `Real 1` chin is completely different than any of my previous. It has visibly much less underlips shadow so a thin lipped sim will look thin lipped.

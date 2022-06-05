@@ -1,7 +1,7 @@
 ## _Navetsea's F-IN (Face-in) skin set_
 # `Asian` edition
 
-> A new first skin in 2013, for asian type simmies. This skin won't replace my older designated asian skin [T.S.I v2](/14%20T.S.I%20(Asian)%20v2%20(revised)) since I think both have enough differences to co-exist together.
+> A new first skin in 2013, for asian type simmies. This skin won't replace my older designated asian skin [T.S.I v2](/mods/14%20T.S.I%20(Asian)%20v2%20(revised)) since I think both have enough differences to co-exist together.
 
 A 2 in 1 skin:
 

@@ -3,7 +3,7 @@
 
 Also a 2 in 1 skin that reacts to the color ramp.
 
-`Real 2` has more realistic looking face in the same principal with [Real 1](/09%20Real%201), with:
+`Real 2` has more realistic looking face in the same principal with [Real 1](/mods/09%20Real%201), with:
 
 * darker eye bag,
 * light under lip fold, more suitable for thin lipped sims,

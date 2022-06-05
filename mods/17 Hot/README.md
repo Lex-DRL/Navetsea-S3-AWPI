@@ -1,9 +1,9 @@
 ## _Navetsea's F-IN (Face-in) skin set_
 # `Hot` edition
 
-A 2 in 1 skin, based on [Sexy](/16%20Sexy) edition, polished with new things:
+A 2 in 1 skin, based on [Sexy](/mods/16%20Sexy) edition, polished with new things:
 
-- New lips are a combination of my favorite [GoS](/07%20G.o.S%20(Garden%20of%20Shadows)) with [Sexy](/16%20Sexy) editions in more natural tone.
+- New lips are a combination of my favorite [GoS](/mods/07%20G.o.S%20(Garden%20of%20Shadows)) with [Sexy](/mods/16%20Sexy) editions in more natural tone.
 - Dark circle around the eyes.
 - New back muscle and more defined/toned abs.
 - Slight freckle on female chest / upper breast.

@@ -3,7 +3,7 @@
 
 Dedicated for asian sims, together with revised color ramp.
 
-It has all details up to the latest development, and retain original [T.S.I/Asian](/05%20T.S.I%20(Asian)) edition face with revised eyelid and better detailed lips.
+It has all details up to the latest development, and retain original [T.S.I/Asian](/mods/05%20T.S.I%20(Asian)) edition face with revised eyelid and better detailed lips.
 
 > **IMPORTANT**:
 > 

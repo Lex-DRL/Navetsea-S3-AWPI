@@ -1,7 +1,7 @@
 ## _Navetsea's F-IN (Face-in) skin set_
 # `Glam revised` edition ❌
 
-[Glam](/02%20Glam) edition got all the new details and seam fix, up to the [Tan](/12%20Tan) edition has, while maintaining its original smooth style.
+[Glam](/mods/02%20Glam) edition got all the new details and seam fix, up to the [Tan](/mods/12%20Tan) edition has, while maintaining its original smooth style.
 
 > **IMPORTANT**:
 > 

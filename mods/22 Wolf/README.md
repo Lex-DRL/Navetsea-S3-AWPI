@@ -3,7 +3,7 @@
 
 A 2 in 1 skin:
 
-- Full lip, [Model](/20%20Model) edition style.
+- Full lip, [Model](/mods/20%20Model) edition style.
 - From normal hairy to full body & facial hair.
 - 2 color ramps for light and medium tone.
 - 6 nipples on wolf form.
