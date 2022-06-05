@@ -6,27 +6,6 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 	<img src="/_PREVIEW/_facial_skin_comparison.gif" alt="Facial skin comparison"/>
 </p>
 
-> __IMPORTANT__: This project uses Git [Large File Storage (LFS)](https://git-lfs.github.com/).
-> 
-> Downloading a zip file using the corresponding link under green button on GitHub **WILL NOT WORK**. To get the actual mods, you have three options:
-> 
-> * Download files here on GitHub one-by-one;
-> * Clone the project with a version of git that has LFS.
-> * Download a release archive from [Releases](../../releases) page. Make sure to download a `*.7z` archive: this is the one containing the right files. _(`Source code` archives are essentially just snapshots of the aforementioned "Download ZIP" link, so they contain the same placeholder-like files with no actual mod data)_
-
-Downloading git-LFS repo with GitKraken: [YouTube](https://www.youtube.com/watch?v=S03EEusFxoI) _(I don't use GitKraken, not sure: you might need to install Git itself and Git LFS manually.)_
-
-<details>
-<summary>Downloading with SmartGit (git-LFS is included)</summary>
-
-0. [Download SmartGit](https://www.syntevo.com/smartgit/download/) and install it / unpack portable version.
-1. _**Repository > Clone**_. Specify the URL of this repo, available here (on GitHub) at the green `Code` button above. If you're not sure which one to use, select HTTPS.
-2. Select `initial_pre-LFS` branch and specify local folder to save to. Finish the cloning process.
-3. _**Local > LFS > Install...**_ > wait till LFS installation is complete _(it should say that in **Output** window; **Status bar** should say "Ready", "Done" or smth. similar)_.
-4. Switch to the `main` branch _(double-click it under "origin", in **Branches** window)_.
-5. Wait till it downloads the latest version of files. Done! ✅
-</details>
-
 ## Reasoning / About
 There's a great 3D/Texture artist [Navetsea](https://navetsea.blogspot.com/) who has published a ton of custom character skintones in a form of mods for Sims 3. Unfortunately, they've published all their work so long ago that internet itself wasn't as developed back then. All the "official" download links in their blog are already dead by now, and what's published on other resources like [modthesims.info](https://modthesims.info/downloads/ts3/342/?showType=1&t=normal&p=1&csort=0&u=57347) is just a tiny fraction of what was created.
 
