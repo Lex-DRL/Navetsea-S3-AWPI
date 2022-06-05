@@ -41,7 +41,7 @@ All Navetsea's skintone mods are called `F-IN TS3...`. This is the naming brough
 - `F-IN` = "face texture included";
 - `TS3` = `The Sims 3`.
 
-In earlier (ancient) mods, Navetsea intended to name them like `F-IN01`, `F-IN02` etc. It's supposed to indicate newer versions. But soon it became clear that multiple branches can co-exist.
+In earlier (ancient) mods, Navetsea intended to name them like `F-IN01`, `F-IN02` etc. It's supposed to indicate newer versions. But soon it became clear that multiple version branches can co-exist (they're called editions now).
 
 Therefore, they switched to more flexible scheme:
 
