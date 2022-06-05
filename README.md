@@ -63,7 +63,9 @@ Full variants of mods are marked as `Adult` in their file name, censored are mar
 ### Default vs non-default
 `Default` mods replace the built-in (default) appearance. **THERE COULD BE ONLY ONE DEFAULT REPLACEMENT** installed at a time (not only from Navetsea's mods, but across your whole `Sims 3` profile).
 
-`Non-default` ones add a new skintone to the pallete.
+`Non-default` ones add a new skintone to the pallete with their own unique ID (that is, they appear **in addition** to the default ones). These skin IDs are gonna be saved in your game. So you need to keep in mind that in order to continue the game later, you must have the same additional skins installed or the game will break.
+
+If you decided to remove a non-default skin after playing for a while, you'll need to use additional tools like [nrass Master Controller](https://www.nraas.net/community/MasterController).
 
 ## Present mods
 > __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
