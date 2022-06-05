@@ -10,7 +10,9 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 <summary>Table of contents</summary>
 
 - [Reasoning / About](#reasoning--about)
-- [Naming explanation](#naming-explanation)
+- [Naming explained](#naming-explained)
+	* [General scheme](#general-scheme)
+	* [Folder number](#folder-number)
 	* [MTSv vs Adult](#mtsv-vs-adult)
 	* [Default vs non-default](#default-vs-non-default)
 - [Present mods](#present-mods)
@@ -32,7 +34,23 @@ Forum threads contain download links scattered over multiple forums, most of whi
 
 So, before it's too late, this repo was created, to save the amazing work.
 
-## Naming explanation
+## Naming explained
+### General scheme
+All Navetsea's skintone mods are called `F-IN TS3...`. This is the naming brought from earlier work in `Sims 2` skins:
+
+- `F-IN` = "face texture included";
+- `TS3` = `The Sims 3`.
+
+In earlier (ancient) mods, Navetsea intended to name them like `F-IN01`, `F-IN02` etc. It's supposed to indicate newer versions. But soon it became clear that multiple branches can co-exist.
+
+Therefore, they switched to more flexible `F-IN TS3 {MTSv/Adult} {Edition name} [optional version] {default/nondefault}` scheme. E.g:
+
+- `F-IN TS3 MTSv glam default`
+- `F-IN TS3 Adult Hairy v3 nondefault`
+
+### Folder number
+Each mod edition is in it's own subfolder, starting with a number. It represents the order of apperance of the skin on [Navetsea blog](https://navetsea.blogspot.com/).
+
 ### MTSv vs Adult
 [ModTheSims](https://modthesims.info/d/479460) portal forbids publishing explicit content. So for it, `MTS` variants of the mods were made. They contain censored female textures (crotch area is in barbie-style). Male textures are still full, since "that part" of texture can't be shown, unless a [corresponding additional mod by Cmar](http://sexysims.info/download.php?t=173718) is installed, too.
 
