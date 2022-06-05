@@ -43,7 +43,11 @@ All Navetsea's skintone mods are called `F-IN TS3...`. This is the naming brough
 
 In earlier (ancient) mods, Navetsea intended to name them like `F-IN01`, `F-IN02` etc. It's supposed to indicate newer versions. But soon it became clear that multiple branches can co-exist.
 
-Therefore, they switched to more flexible `F-IN TS3 {MTSv/Adult} {Edition name} [optional version] {default/nondefault}` scheme. E.g:
+Therefore, they switched to more flexible scheme:
+
+`F-IN TS3 {MTSv/Adult} {Edition name} [optional version] {default/nondefault}`.
+
+E.g:
 
 - `F-IN TS3 MTSv glam default`
 - `F-IN TS3 Adult Hairy v3 nondefault`
