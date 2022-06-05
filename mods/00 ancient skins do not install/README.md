@@ -1,5 +1,5 @@
 ## _Navetsea's F-IN (Face-in) skin set_
-# `SS2` edition _(v1 female / v2 unisex)_
+# Ancient editions
 
 - [Female](#female)
 - [Male](#male)
