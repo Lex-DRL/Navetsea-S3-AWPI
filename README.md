@@ -68,8 +68,6 @@ Full variants of mods are marked as `Adult` in their file name, censored are mar
 If you decided to remove a non-default skin after playing for a while, you'll need to use additional tools like [nrass Master Controller](https://www.nraas.net/community/MasterController).
 
 ## Mods list
-> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
-
 ### [Ancient mods](/mods/00%20ancient%20skins%20do%20not%20install)
 From old (outdated) mods, all of them are present. These mods are inside [00 ancient skins do not install](/mods/00%20ancient%20skins%20do%20not%20install) folder. You shouldn't need them anyway, but here's the list of those just in case. All of them contain only default replacements:
 
@@ -78,6 +76,8 @@ From old (outdated) mods, all of them are present. These mods are inside [00 anc
 - **V2C**
 
 ### Relevant (newer, up-to-date) mods
+
+> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
 - ✅ : present
 - ❌ : lost
