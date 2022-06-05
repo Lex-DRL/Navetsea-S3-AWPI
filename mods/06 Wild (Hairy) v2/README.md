@@ -9,10 +9,10 @@
 > 
 > So I decide to publish it, to get input, and ideas to develop it further.
 
-![Wild/Hairy v2 - 1](/_PREVIEW/06%20Wild%20(Hairy)%20v2-1.jpg)
-![Wild/Hairy v2 - 2](/_PREVIEW/06%20Wild%20(Hairy)%20v2-2.jpg)
-![Wild/Hairy v2 - 3](/_PREVIEW/06%20Wild%20(Hairy)%20v2-3.jpg)
-![Wild/Hairy v2 - 4](/_PREVIEW/06%20Wild%20(Hairy)%20v2-4.jpg)
-![Wild/Hairy v2 - 5](/_PREVIEW/06%20Wild%20(Hairy)%20v2-5.jpg)
-![Wild/Hairy v2 - 6](/_PREVIEW/06%20Wild%20(Hairy)%20v2-6.jpg)
-![Wild/Hairy v2 - 7](/_PREVIEW/06%20Wild%20(Hairy)%20v2-7.jpg)
+![Wild/Hairy v2 - 1](/preview-images/06%20Wild%20(Hairy)%20v2-1.jpg)
+![Wild/Hairy v2 - 2](/preview-images/06%20Wild%20(Hairy)%20v2-2.jpg)
+![Wild/Hairy v2 - 3](/preview-images/06%20Wild%20(Hairy)%20v2-3.jpg)
+![Wild/Hairy v2 - 4](/preview-images/06%20Wild%20(Hairy)%20v2-4.jpg)
+![Wild/Hairy v2 - 5](/preview-images/06%20Wild%20(Hairy)%20v2-5.jpg)
+![Wild/Hairy v2 - 6](/preview-images/06%20Wild%20(Hairy)%20v2-6.jpg)
+![Wild/Hairy v2 - 7](/preview-images/06%20Wild%20(Hairy)%20v2-7.jpg)

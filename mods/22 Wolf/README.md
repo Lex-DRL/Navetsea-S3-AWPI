@@ -9,4 +9,4 @@ A 2 in 1 skin:
 - 6 nipples on wolf form.
 - Only teen to elder are affected by the body hair, the other age won't turn hairy.
 
-![Wolf](/_PREVIEW/22%20Wolf.jpg)
+![Wolf](/preview-images/22%20Wolf.jpg)

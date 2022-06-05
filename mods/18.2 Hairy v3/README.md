@@ -13,4 +13,4 @@
 - Body hair (obviously).
 - Narrower mouth.
 
-![Hairy v3](/_PREVIEW/18.2%20Hairy%20v3.jpg)
+![Hairy v3](/preview-images/18.2%20Hairy%20v3.jpg)

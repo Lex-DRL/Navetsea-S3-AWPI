@@ -12,9 +12,9 @@ It has [Cute](/mods/11%20Cute) edition face with different lips.
 > * foot and hand details,
 > * revised toddler skin.
 
-![Tan-0](/_PREVIEW/12%20Tan-0.jpg)
-![Tan-1](/_PREVIEW/12%20Tan-1.jpg)
-![Tan-2](/_PREVIEW/12%20Tan-2.jpg)
-![Tan-3](/_PREVIEW/12%20Tan-3.jpg)
-![Tan-4](/_PREVIEW/12%20Tan-4.jpg)
-![Tan-5](/_PREVIEW/12%20Tan-5.jpg)
+![Tan-0](/preview-images/12%20Tan-0.jpg)
+![Tan-1](/preview-images/12%20Tan-1.jpg)
+![Tan-2](/preview-images/12%20Tan-2.jpg)
+![Tan-3](/preview-images/12%20Tan-3.jpg)
+![Tan-4](/preview-images/12%20Tan-4.jpg)
+![Tan-5](/preview-images/12%20Tan-5.jpg)

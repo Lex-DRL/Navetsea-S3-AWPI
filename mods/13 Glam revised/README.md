@@ -18,5 +18,5 @@ If everything goes well, it should replace sims who once used `Glam` skin into t
 > * _**belly button**_,
 > * _**better detailed nipple**_.
 
-![GlamRevised-1](/_PREVIEW/13%20Glam%20revised-1.jpg)
-![GlamRevised-2](/_PREVIEW/13%20Glam%20revised-2.jpg)
+![GlamRevised-1](/preview-images/13%20Glam%20revised-1.jpg)
+![GlamRevised-2](/preview-images/13%20Glam%20revised-2.jpg)

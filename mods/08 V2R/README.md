@@ -14,7 +14,7 @@ Like [Real 1](/mods/09%20Real%201):
 
 > Both (`V2R` & `Real 1`) are 2 in 1 skins and also have updated underboobs to support smaller breasted women, and foot and hand details, and also revised toddler body.
 
-![V2R-1](/_PREVIEW/08%20V2R.jpg)
-![V2R/Real1-1](/_PREVIEW/08%20V2R-Real1-1.jpeg)
-![V2R/Real1-2](/_PREVIEW/08%20V2R-Real1-2.jpeg)
-![V2R/Real1-3](/_PREVIEW/08%20V2R-Real1-3.jpg)
+![V2R-1](/preview-images/08%20V2R.jpg)
+![V2R/Real1-1](/preview-images/08%20V2R-Real1-1.jpeg)
+![V2R/Real1-2](/preview-images/08%20V2R-Real1-2.jpeg)
+![V2R/Real1-3](/preview-images/08%20V2R-Real1-3.jpg)

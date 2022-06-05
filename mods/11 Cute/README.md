@@ -12,6 +12,6 @@ Tone wise, it has similar color ramp as [G.o.S (Garden of Shadows)](/mods/07%20G
 > * foot and hand details,
 > * revised toddler skin.
 
-![Cute-1](/_PREVIEW/11%20Cute-1.jpg)
-![Cute-2](/_PREVIEW/11%20Cute-2.jpg)
-![Cute-3](/_PREVIEW/11%20Cute-3.jpg)
+![Cute-1](/preview-images/11%20Cute-1.jpg)
+![Cute-2](/preview-images/11%20Cute-2.jpg)
+![Cute-3](/preview-images/11%20Cute-3.jpg)

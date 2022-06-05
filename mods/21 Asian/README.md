@@ -12,4 +12,4 @@ A 2 in 1 skin:
 - Less muscle on abdominal region.
 - Double peaks color ramp style perfected to get deeper dark when needed.
 
-![Asian](/_PREVIEW/21%20Asian.jpg)
+![Asian](/preview-images/21%20Asian.jpg)

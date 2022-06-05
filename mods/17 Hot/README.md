@@ -11,6 +11,6 @@ A 2 in 1 skin, based on [Sexy](/mods/16%20Sexy) edition, polished with new thing
 - Fine tuning on the face to make its features look better: highlight and shadow.
 - Using `GoS` type color ramp. It support pale to brown, and zombie tone. _(pale - caucasian - asian- tan - brown - choco - zombie)_
 
-![Hot-1](/_PREVIEW/17%20Hot-1.jpg)
-![Hot-2](/_PREVIEW/17%20Hot-2.jpg)
-![Hot-3](/_PREVIEW/17%20Hot-3.jpg)
+![Hot-1](/preview-images/17%20Hot-1.jpg)
+![Hot-2](/preview-images/17%20Hot-2.jpg)
+![Hot-3](/preview-images/17%20Hot-3.jpg)

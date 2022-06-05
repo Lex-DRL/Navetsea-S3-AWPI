@@ -9,4 +9,4 @@ A 2 in 1 skin:
 - Very wild (derived from [Wolf](/mods/22%20Wolf) edition) body hair to mild.
 - Double peaks color ramp style perfected to get deeper dark when needed.
 
-![Hairy v4](/_PREVIEW/23%20Hairy%20v4.jpg)
+![Hairy v4](/preview-images/23%20Hairy%20v4.jpg)

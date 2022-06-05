@@ -13,4 +13,4 @@
 - Asymetrical mouth corner. Therefore, it has a unique smirk.
 
 
-![Bad](/_PREVIEW/18.1%20Bad.jpg)
+![Bad](/preview-images/18.1%20Bad.jpg)

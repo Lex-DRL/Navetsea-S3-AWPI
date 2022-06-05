@@ -18,4 +18,4 @@ A 2 in 1 skin, based from on [Hot](/mods/17%20Hot) edition.
 
 > This edition also has a "futa" version of default-override mod. I.e., the one which adds male genitalia to female models.
 
-![Model](/_PREVIEW/20%20Model.jpg)
+![Model](/preview-images/20%20Model.jpg)

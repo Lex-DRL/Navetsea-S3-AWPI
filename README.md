@@ -3,7 +3,7 @@
 This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogspot.com/) that was published as Sims 3 mods.
 
 <p align="center">
-	<img src="/_PREVIEW/_facial_skin_comparison.gif" alt="Facial skin comparison"/>
+	<img src="/preview-images/_facial_skin_comparison.gif" alt="Facial skin comparison"/>
 </p>
 
 <details>

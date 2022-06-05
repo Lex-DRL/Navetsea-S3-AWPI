@@ -17,5 +17,5 @@ A 2 in 1 skin, based on [Hot](/mods/17%20Hot) and [Hairy v3](/mods/18.2%20Hairy%
 
 > Buhudain this one is for you :)
 
-![Sweet-1](/_PREVIEW/19%20Sweet-1.jpg)
-![Sweet-2](/_PREVIEW/19%20Sweet-2.jpg)
+![Sweet-1](/preview-images/19%20Sweet-1.jpg)
+![Sweet-2](/preview-images/19%20Sweet-2.jpg)
