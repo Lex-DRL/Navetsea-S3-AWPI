@@ -1,3 +1,4 @@
+2011-02-14.23:47:26.241317.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - body MTSv v2.package
 2011-02-14.23:50:30.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - body pubes v1.package
 2011-02-15.00:00:06.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - body pubes v2.package
 2011-02-14.23:50:52.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - body shaved v1.package
@@ -6,11 +7,15 @@
 2011-02-14.23:59:22.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - face v2.package
 2011-02-18.14:29:20.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 female default - face v2a.package
 2011-02-16.03:51:40.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 male default - body hairy v2.package
+2011-02-16.03:52:32.020547.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 male default - body MTSv v2.package
 2011-02-15.22:41:36.000000.UTC+0000|mods/00 ancient skins do not install/SS2 v1 female + v2 unisex/navetsea F-IN01 TS3 male default - face v2.package
+2011-02-19.23:33:40.045399.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 female default - body MTSv v2b.package
 2011-02-19.23:28:06.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 female default - body pubes v2b.package
 2011-02-19.21:19:38.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 female default - body shaved v2b.package
 2011-02-19.16:16:06.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 female default - face v2b.package
 2011-02-20.10:27:44.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 male default - body hairy v2b.package
+2011-02-20.07:25:30.259097.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 male default - body MTSv hairy v2b.package
+2011-02-20.07:26:53.668842.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 male default - body MTSv v2b.package
 2011-02-19.03:27:06.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 male default - body specular.package
 2011-02-19.22:34:02.000000.UTC+0000|mods/00 ancient skins do not install/V2B/navetsea F-IN01 TS3 male default - face v2b.package
 2011-03-08.06:01:14.000000.UTC+0000|mods/00 ancient skins do not install/V2C/navetsea F-IN01 TS3 female default - face v2c.package
