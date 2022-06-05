@@ -6,7 +6,9 @@ This repo is an attempt to preserve artwork by [Navetsea](https://navetsea.blogs
 	<img src="/preview-images/_facial_skin_comparison.gif" alt="Facial skin comparison"/>
 </p>
 
-> __IMPORTANT__: If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
+> __IMPORTANT__:
+> 
+> If you have any of the missing mods, **PLEASE SHARE THEM** *(See [Contributing](#contributing))*.
 
 <details>
 <summary>Table of contents</summary>
